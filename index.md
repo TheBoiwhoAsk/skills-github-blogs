@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
-paragrah: Hello world!.
+paragraph: Hello world!.
 ---
